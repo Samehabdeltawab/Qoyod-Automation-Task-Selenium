@@ -10,6 +10,12 @@
     <test name="Login Tests">
         <classes>
             <class name="tests.LoginTest"/>
+            <methods>
+                <include name="testSuccessfulLogin" />
+                <include name="testInvalidUsername" />
+                <include name="testIncorrectPassword" />
+                <include name="testEmptyFields" />
+            </methods>
         </classes>
     </test>
 </suite>
