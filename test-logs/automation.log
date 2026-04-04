@@ -1,0 +1,1718 @@
+2026-04-02 12:48:58 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:48:58 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:49:12 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 12:49:12 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 12:49:12 INFO  BaseTest:26 - Test setup completed
+2026-04-02 12:49:12 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 12:49:12 INFO  LoginTest:39 - Opened base URL: file:///D:/QA Automation Interview Task/login.html
+2026-04-02 12:49:23 ERROR LoginTest:63 - Test FAILED for user qoyod_user: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 12:49:23 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 12:49:23 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_12-49-23.png
+2026-04-02 12:49:23 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 12:49:23 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 12:49:23 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:49:24 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 12:49:24 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 12:49:24 INFO  BaseTest:26 - Test setup completed
+2026-04-02 12:49:24 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 12:49:24 INFO  LoginTest:39 - Opened base URL: file:///D:/QA Automation Interview Task/login.html
+2026-04-02 12:49:34 ERROR LoginTest:63 - Test FAILED for user qoyod_user4444: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 12:49:34 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 12:49:35 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_12-49-35.png
+2026-04-02 12:49:35 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 12:49:35 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 12:49:35 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:49:36 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 12:49:36 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 12:49:36 INFO  BaseTest:26 - Test setup completed
+2026-04-02 12:49:36 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 12:49:36 INFO  LoginTest:39 - Opened base URL: file:///D:/QA Automation Interview Task/login.html
+2026-04-02 12:49:46 ERROR LoginTest:63 - Test FAILED for user qoyod_user: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 12:49:46 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 12:49:47 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_12-49-47.png
+2026-04-02 12:49:47 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 12:49:47 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 12:50:44 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:50:44 INFO  Utils:112 - [TestNG] Running:
+  Command line suite
+
+2026-04-02 12:50:44 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:50:46 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 12:50:46 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 12:50:46 INFO  BaseTest:26 - Test setup completed
+2026-04-02 12:50:46 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 12:50:46 INFO  LoginTest:39 - Opened base URL: file:///D:/QA Automation Interview Task/login.html
+2026-04-02 12:50:56 ERROR LoginTest:63 - Test FAILED for user qoyod_user: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 12:50:56 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 12:50:56 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_12-50-56.png
+2026-04-02 12:50:57 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 12:50:57 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 12:50:57 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:50:58 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 12:50:58 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 12:50:58 INFO  BaseTest:26 - Test setup completed
+2026-04-02 12:50:58 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 12:50:58 INFO  LoginTest:39 - Opened base URL: file:///D:/QA Automation Interview Task/login.html
+2026-04-02 12:51:08 ERROR LoginTest:63 - Test FAILED for user qoyod_user4444: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 12:51:08 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 12:51:08 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_12-51-08.png
+2026-04-02 12:51:09 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 12:51:09 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 12:51:09 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:51:10 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 12:51:10 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 12:51:10 INFO  BaseTest:26 - Test setup completed
+2026-04-02 12:51:10 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 12:51:10 INFO  LoginTest:39 - Opened base URL: file:///D:/QA Automation Interview Task/login.html
+2026-04-02 12:51:21 ERROR LoginTest:63 - Test FAILED for user qoyod_user: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 12:51:21 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 12:51:21 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_12-51-21.png
+2026-04-02 12:51:21 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 12:51:21 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 12:52:52 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:52:52 INFO  Utils:112 - [TestNG] Running:
+  Command line suite
+
+2026-04-02 12:52:52 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:52:55 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 12:52:55 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 12:52:55 INFO  BaseTest:26 - Test setup completed
+2026-04-02 12:52:55 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 12:52:55 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/login.html
+2026-04-02 12:53:06 ERROR LoginTest:63 - Test FAILED for user qoyod_user: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 12:53:06 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 12:53:06 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_12-53-06.png
+2026-04-02 12:53:06 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 12:53:06 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 12:53:06 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:53:08 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 12:53:08 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 12:53:08 INFO  BaseTest:26 - Test setup completed
+2026-04-02 12:53:08 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 12:53:08 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/login.html
+2026-04-02 12:53:18 ERROR LoginTest:63 - Test FAILED for user qoyod_user4444: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 12:53:18 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 12:53:18 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_12-53-18.png
+2026-04-02 12:53:18 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 12:53:18 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 12:53:18 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 12:53:20 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 12:53:20 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 12:53:20 INFO  BaseTest:26 - Test setup completed
+2026-04-02 12:53:20 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 12:53:20 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/login.html
+2026-04-02 12:53:31 ERROR LoginTest:63 - Test FAILED for user qoyod_user: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 12:53:31 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 12:53:31 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_12-53-31.png
+2026-04-02 12:53:31 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 12:53:31 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:01:49 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:01:49 INFO  Utils:112 - [TestNG] Running:
+  Command line suite
+
+2026-04-02 13:01:49 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:01:50 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:01:51 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:01:51 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:01:51 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:01:51 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/login.html
+2026-04-02 13:02:01 ERROR LoginTest:63 - Test FAILED for user qoyod_user: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 13:02:01 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 13:02:01 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_13-02-01.png
+2026-04-02 13:02:01 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:02:01 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:02:01 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:02:03 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:02:03 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:02:03 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:02:03 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 13:02:03 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/login.html
+2026-04-02 13:02:13 ERROR LoginTest:63 - Test FAILED for user qoyod_user4444: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 13:02:13 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 13:02:13 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_13-02-13.png
+2026-04-02 13:02:13 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:02:13 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:02:13 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:02:15 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:02:15 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:02:15 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:02:15 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:02:15 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/login.html
+2026-04-02 13:02:25 ERROR LoginTest:63 - Test FAILED for user qoyod_user: Failed to enter username: Expected condition failed: waiting for presence of element located by: By.id: username-input (tried for 10 second(s) with 500 milliseconds interval)
+2026-04-02 13:02:25 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 13:02:26 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_13-02-26.png
+2026-04-02 13:02:26 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:02:26 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:06:58 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:06:58 INFO  Utils:112 - [TestNG] Running:
+  Command line suite
+
+2026-04-02 13:06:58 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:07:01 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:07:01 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:07:01 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:07:01 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:07:02 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:07:04 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:07:04 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 13:07:04 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_13-07-04.png
+2026-04-02 13:07:05 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:07:05 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:07:05 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:07:06 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:07:06 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:07:06 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:07:06 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 13:07:07 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:07:09 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:07:09 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed for: qoyod_user4444
+2026-04-02 13:07:10 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:07:10 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:07:10 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:07:11 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:07:11 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:07:11 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:07:11 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:07:11 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:07:14 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:07:14 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed for: qoyod_user
+2026-04-02 13:07:14 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:07:14 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:23:29 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:23:29 INFO  Utils:112 - [TestNG] Running:
+  Command line suite
+
+2026-04-02 13:23:29 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:23:31 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:23:31 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:23:31 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:23:31 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:23:32 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:23:35 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:23:35 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 13:23:35 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_13-23-35.png
+2026-04-02 13:23:35 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:23:35 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:23:35 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:23:37 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:23:37 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:23:37 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:23:37 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 13:23:38 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:23:40 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:23:40 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed for: qoyod_user4444
+2026-04-02 13:23:41 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:23:41 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:23:41 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:23:42 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:23:42 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:23:42 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:23:42 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:23:42 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:23:45 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:23:45 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed for: qoyod_user
+2026-04-02 13:23:46 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:23:46 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:25:16 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:25:16 INFO  Utils:112 - [TestNG] Running:
+  Command line suite
+
+2026-04-02 13:25:16 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:25:20 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:25:20 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:25:20 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:25:20 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:25:21 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:25:24 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:25:24 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 13:25:24 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_13-25-24.png
+2026-04-02 13:25:24 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:25:24 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:25:24 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:25:25 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:25:26 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:25:26 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:25:26 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 13:25:27 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:25:29 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:25:29 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed for: qoyod_user4444
+2026-04-02 13:25:29 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:25:29 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:25:29 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:25:31 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:25:31 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:25:31 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:25:31 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:25:31 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:25:34 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:25:34 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed for: qoyod_user
+2026-04-02 13:25:34 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:25:34 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:29:59 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:29:59 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:30:03 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:30:03 INFO  Utils:112 - [TestNG] Running:
+  Command line suite
+
+2026-04-02 13:30:03 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:30:03 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:30:03 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:30:03 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:30:04 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:30:06 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:30:07 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:30:07 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 13:30:08 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_13-30-08.png
+2026-04-02 13:30:09 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:30:09 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:30:09 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:30:09 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:30:09 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:30:10 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:30:10 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:30:10 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:30:13 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:30:13 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:30:13 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:30:13 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:30:13 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 13:30:13 ERROR BaseTest:32 - Test failed: loginTest
+2026-04-02 13:30:14 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:30:14 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/loginTest_2026-04-02_13-30-14.png
+2026-04-02 13:30:17 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:30:17 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed for: qoyod_user4444
+2026-04-02 13:30:18 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:30:18 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:30:18 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:30:18 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:30:18 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:30:18 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:30:21 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:30:21 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:30:21 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:30:21 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 13:30:22 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:30:22 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:30:23 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:30:23 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:30:23 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:30:24 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:30:27 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:30:27 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed for: qoyod_user
+2026-04-02 13:30:27 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:30:27 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed for: qoyod_user4444
+2026-04-02 13:30:27 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:30:27 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:30:27 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:30:27 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:30:27 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:30:30 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:30:30 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:30:30 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:30:30 INFO  LoginTest:32 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:30:31 INFO  LoginTest:39 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:30:33 INFO  LoginTest:45 - Submitted login credentials
+2026-04-02 13:30:33 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed for: qoyod_user
+2026-04-02 13:30:34 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:30:34 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:40:26 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:40:26 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:40:28 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:40:28 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:40:28 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:40:28 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:40:29 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:40:32 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 13:40:35 INFO  LoginTest:50 - Login successful. Actual user displayed: qoyod_user
+2026-04-02 13:40:35 INFO  LoginTest:54 - Test PASSED - Correct username displayed.
+2026-04-02 13:40:35 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:40:35 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:40:35 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:40:37 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:40:37 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:40:37 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:40:37 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 13:40:37 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:40:40 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user4444
+2026-04-02 13:40:40 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed: Invalid username or password. Please try again.
+2026-04-02 13:40:40 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:40:40 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:40:40 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:40:42 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:40:42 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:40:42 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:40:42 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:40:43 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:40:45 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 13:40:45 INFO  LoginTest:59 - Test PASSED - Error message correctly displayed: Invalid username or password. Please try again.
+2026-04-02 13:40:45 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:40:45 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:48:52 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:48:52 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:48:54 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:48:54 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:48:54 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:48:54 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:48:55 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:48:57 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 13:49:01 INFO  LoginTest:53 - CONFIRMATION: Success screen displayed for: qoyod_user
+2026-04-02 13:49:01 INFO  LoginTest:57 - Test PASSED - Correct username displayed.
+2026-04-02 13:49:01 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:49:01 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:49:01 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:49:02 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:49:02 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:49:02 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:49:02 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 13:49:03 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:49:06 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user4444
+2026-04-02 13:49:06 INFO  LoginTest:65 - CONFIRMATION: Error message captured: Invalid username or password. Please try again.
+2026-04-02 13:49:06 INFO  LoginTest:69 - Test PASSED - Error message correctly verified.
+2026-04-02 13:49:06 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:49:06 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:49:06 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:49:09 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:49:10 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:49:10 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:49:10 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:49:11 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:49:13 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 13:49:13 INFO  LoginTest:65 - CONFIRMATION: Error message captured: Invalid username or password. Please try again.
+2026-04-02 13:49:13 INFO  LoginTest:69 - Test PASSED - Error message correctly verified.
+2026-04-02 13:49:13 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:49:13 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:49:52 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:49:52 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:49:53 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:49:53 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:49:53 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:49:53 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:49:54 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:49:57 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 13:50:00 INFO  LoginTest:53 - CONFIRMATION: Success screen displayed for: qoyod_user
+2026-04-02 13:50:00 INFO  LoginTest:57 - Test PASSED - Correct username displayed.
+2026-04-02 13:50:00 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:50:00 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:50:00 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:50:01 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:50:01 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:50:01 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:50:01 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 13:50:02 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:50:05 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user4444
+2026-04-02 13:50:05 INFO  LoginTest:65 - CONFIRMATION: Error message captured: Invalid username or password. Please try again.
+2026-04-02 13:50:05 INFO  LoginTest:69 - Test PASSED - Error message correctly verified.
+2026-04-02 13:50:05 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:50:05 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:50:05 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:50:07 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:50:07 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:50:07 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:50:07 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:50:07 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:50:10 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 13:50:10 INFO  LoginTest:65 - CONFIRMATION: Error message captured: Invalid username or password. Please try again.
+2026-04-02 13:50:10 INFO  LoginTest:69 - Test PASSED - Error message correctly verified.
+2026-04-02 13:50:10 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:50:10 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:51:13 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:51:13 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:51:15 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:51:15 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:51:15 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:51:15 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:51:16 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:51:19 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 13:51:22 INFO  LoginTest:53 - CONFIRMATION: Success screen displayed for: qoyod_user
+2026-04-02 13:51:22 INFO  LoginTest:57 - Test PASSED - Correct username displayed.
+2026-04-02 13:51:22 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:51:22 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:51:22 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:51:23 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:51:23 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:51:23 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:51:23 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 13:51:25 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:51:27 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user4444
+2026-04-02 13:51:27 INFO  LoginTest:65 - CONFIRMATION: Error message captured: Invalid username or password. Please try again.
+2026-04-02 13:51:27 INFO  LoginTest:69 - Test PASSED - Error message correctly verified.
+2026-04-02 13:51:27 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:51:27 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 13:51:27 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 13:51:30 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 13:51:30 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 13:51:30 INFO  BaseTest:26 - Test setup completed
+2026-04-02 13:51:30 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 13:51:30 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 13:51:33 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 13:51:33 INFO  LoginTest:65 - CONFIRMATION: Error message captured: Invalid username or password. Please try again.
+2026-04-02 13:51:33 INFO  LoginTest:69 - Test PASSED - Error message correctly verified.
+2026-04-02 13:51:35 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 13:51:35 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:04:59 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:04:59 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:05:01 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:05:01 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:05:01 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:05:01 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 14:05:03 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 14:05:05 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 14:05:08 INFO  LoginTest:53 - CONFIRMATION: Success screen displayed for: qoyod_user
+2026-04-02 14:05:08 INFO  LoginTest:57 - Test PASSED - Correct username displayed.
+2026-04-02 14:05:08 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:05:08 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:05:08 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:05:10 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:05:10 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:05:10 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:05:10 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 14:05:11 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 14:05:13 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user4444
+2026-04-02 14:05:13 INFO  LoginTest:65 - CONFIRMATION: Error message captured: Invalid username or password. Please try again.
+2026-04-02 14:05:13 INFO  LoginTest:69 - Test PASSED - Error message correctly verified.
+2026-04-02 14:05:14 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:05:14 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:05:14 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:05:15 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:05:15 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:05:15 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:05:15 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 14:05:15 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 14:05:18 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 14:05:18 INFO  LoginTest:65 - CONFIRMATION: Error message captured: Invalid username or password. Please try again.
+2026-04-02 14:05:18 INFO  LoginTest:69 - Test PASSED - Error message correctly verified.
+2026-04-02 14:05:19 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:05:19 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:10:08 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:10:08 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:10:10 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:10:10 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:10:10 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:10:10 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 14:10:11 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 14:10:13 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 14:10:17 INFO  LoginTest:53 - CONFIRMATION: Success screen displayed for: qoyod_user
+2026-04-02 14:10:17 INFO  LoginTest:57 - Test PASSED - Correct username displayed.
+2026-04-02 14:10:17 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:10:17 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:10:17 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:10:18 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:10:18 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:10:18 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:10:18 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 14:10:19 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 14:10:21 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user4444
+2026-04-02 14:10:21 INFO  LoginTest:65 - CONFIRMATION: Error message captured: Invalid username or password. Please try again.
+2026-04-02 14:10:21 INFO  LoginTest:69 - Test PASSED - Error message correctly verified.
+2026-04-02 14:10:22 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:10:22 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:10:22 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:10:23 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:10:23 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:10:23 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:10:23 INFO  LoginTest:31 - --- Starting login test for user: qoyod_user ---
+2026-04-02 14:10:23 INFO  LoginTest:38 - Opened base URL: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-02 14:10:26 INFO  LoginTest:44 - Submitted login credentials for: qoyod_user
+2026-04-02 14:10:26 INFO  LoginTest:65 - CONFIRMATION: Error message captured: Invalid username or password. Please try again.
+2026-04-02 14:10:26 INFO  LoginTest:69 - Test PASSED - Error message correctly verified.
+2026-04-02 14:10:26 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:10:26 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:21:02 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:21:02 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:21:04 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:21:04 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:21:04 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:21:04 INFO  LoginTest:33 - --- Starting login test for user: qoyod_user ---
+2026-04-02 14:21:11 INFO  LoginTest:53 - Test PASSED - Login successful.
+2026-04-02 14:21:11 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:21:11 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:21:11 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:21:12 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:21:12 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:21:12 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:21:12 INFO  LoginTest:33 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 14:21:16 INFO  LoginTest:72 - Test PASSED - General error message verified.
+2026-04-02 14:21:16 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:21:16 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:21:16 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:21:17 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:21:17 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:21:17 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:21:17 INFO  LoginTest:33 - --- Starting login test for user: qoyod_user ---
+2026-04-02 14:21:20 INFO  LoginTest:72 - Test PASSED - General error message verified.
+2026-04-02 14:21:20 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:21:20 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:21:20 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:21:22 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:21:22 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:21:22 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:21:22 INFO  LoginTest:33 - --- Starting login test for user: [EMPTY] ---
+2026-04-02 14:21:25 INFO  LoginTest:65 - Test PASSED - Field-level error messages verified.
+2026-04-02 14:21:25 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:21:25 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:23:31 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:23:31 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:23:33 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:23:33 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:23:33 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:23:33 INFO  LoginTest:33 - --- Starting login test for user: qoyod_user ---
+2026-04-02 14:23:40 INFO  LoginTest:53 - Test PASSED - Login successful.
+2026-04-02 14:23:40 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:23:40 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:23:40 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:23:41 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:23:41 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:23:41 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:23:41 INFO  LoginTest:33 - --- Starting login test for user: qoyod_user4444 ---
+2026-04-02 14:23:45 INFO  LoginTest:72 - Test PASSED - General error message verified.
+2026-04-02 14:23:45 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:23:45 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:23:45 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:23:46 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:23:46 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:23:46 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:23:46 INFO  LoginTest:33 - --- Starting login test for user: qoyod_user ---
+2026-04-02 14:23:50 INFO  LoginTest:72 - Test PASSED - General error message verified.
+2026-04-02 14:23:50 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:23:50 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:23:50 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:23:51 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:23:51 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:23:51 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:23:51 INFO  LoginTest:33 - --- Starting login test for user: [EMPTY] ---
+2026-04-02 14:23:54 INFO  LoginTest:65 - Test PASSED - Field-level error messages verified.
+2026-04-02 14:23:55 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:23:55 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:39:19 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:39:19 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:39:23 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:39:23 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:39:23 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:39:30 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:39:30 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:39:30 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:39:32 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:39:32 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:39:32 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:39:36 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:39:36 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:39:36 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:39:38 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:39:39 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:39:39 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:39:43 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:39:43 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:40:28 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:40:28 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:40:31 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:40:31 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:40:31 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:40:39 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:40:39 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:40:39 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:40:41 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:40:41 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:40:41 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:40:45 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:40:45 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:40:45 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:40:47 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:40:47 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:40:47 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:40:52 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:40:52 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:40:52 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:40:54 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:40:54 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:40:54 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:40:59 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:40:59 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:52:04 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:52:04 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:52:18 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:52:18 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:52:18 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:52:26 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:52:26 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:52:26 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:52:31 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:52:31 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:52:31 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:52:36 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:52:36 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:52:36 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:52:38 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:52:38 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:52:38 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:52:42 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:52:42 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 14:52:42 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 14:52:45 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 14:52:45 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 14:52:45 INFO  BaseTest:26 - Test setup completed
+2026-04-02 14:52:48 INFO  DriverFactory:54 - Browser quit successfully
+2026-04-02 14:52:48 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:03:01 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:03:01 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:03:04 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:03:04 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:03:04 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:03:12 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:03:12 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:03:12 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:03:14 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:03:14 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:03:14 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:03:17 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:03:17 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:03:17 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:03:20 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:03:20 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:03:20 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:03:24 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:03:24 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:03:24 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:03:26 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:03:26 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:03:26 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:03:30 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:03:30 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:45:03 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:45:03 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:45:05 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:45:05 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:45:05 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:45:12 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:45:12 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:45:12 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:45:14 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:45:14 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:45:14 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:45:17 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:45:17 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:45:17 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:45:18 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:45:18 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:45:18 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:45:22 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:45:22 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:45:22 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:45:23 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:45:23 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:45:23 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:45:28 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:45:28 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:52:08 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:52:08 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:52:11 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:52:11 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:52:11 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:52:18 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:52:18 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:52:18 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:52:19 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:52:19 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:52:19 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:52:23 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:52:23 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:52:23 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:52:24 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:52:24 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:52:24 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:52:30 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:52:30 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 15:52:30 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 15:53:06 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 15:53:06 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 15:53:06 INFO  BaseTest:26 - Test setup completed
+2026-04-02 15:53:09 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 15:53:09 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 16:54:34 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 16:54:34 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 16:54:39 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 16:54:39 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 16:54:39 INFO  BaseTest:26 - Test setup completed
+2026-04-02 16:54:47 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 16:54:47 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 16:54:47 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 16:54:49 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 16:54:49 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 16:54:49 INFO  BaseTest:26 - Test setup completed
+2026-04-02 16:54:54 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 16:54:54 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 16:54:54 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 16:54:56 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 16:54:56 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 16:54:56 INFO  BaseTest:26 - Test setup completed
+2026-04-02 16:55:00 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 16:55:00 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 16:55:00 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 16:55:03 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 16:55:03 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 16:55:03 INFO  BaseTest:26 - Test setup completed
+2026-04-02 16:55:07 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 16:55:07 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 16:55:45 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 16:55:45 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 16:55:49 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 16:55:49 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 16:55:49 INFO  BaseTest:26 - Test setup completed
+2026-04-02 16:55:56 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 16:55:56 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 16:55:56 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 16:55:59 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 16:55:59 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 16:55:59 INFO  BaseTest:26 - Test setup completed
+2026-04-02 16:56:04 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 16:56:04 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 16:56:04 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 16:56:06 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 16:56:06 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 16:56:06 INFO  BaseTest:26 - Test setup completed
+2026-04-02 16:56:10 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 16:56:10 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 16:56:10 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 16:56:13 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 16:56:13 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 16:56:13 INFO  BaseTest:26 - Test setup completed
+2026-04-02 16:56:17 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 16:56:17 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:09:37 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:09:38 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:09:41 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:09:41 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:09:41 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:09:45 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:09:45 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-09-45.png
+2026-04-02 17:09:45 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:09:45 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:09:45 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:09:48 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:09:48 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:09:48 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:09:52 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:09:52 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:09:52 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:09:55 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:09:55 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:09:55 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:09:59 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:09:59 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:09:59 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:10:01 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:10:01 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:10:01 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:10:05 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:10:05 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:10:17 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:10:17 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:10:20 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:10:20 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:10:20 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:10:24 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:10:24 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-10-24.png
+2026-04-02 17:10:24 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:10:24 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:10:24 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:10:27 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:10:27 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:10:27 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:10:31 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:10:32 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:10:32 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:10:34 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:10:34 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:10:34 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:10:38 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:10:38 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:10:38 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:10:40 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:10:40 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:10:40 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:10:44 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:10:44 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:14:25 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:14:25 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:14:28 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:14:28 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:14:28 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:14:29 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:14:29 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-14-29.png
+2026-04-02 17:14:29 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:14:29 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:14:29 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:14:32 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:14:32 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:14:32 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:14:32 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:14:32 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-14-32.png
+2026-04-02 17:14:33 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:14:33 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:14:33 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:14:35 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:14:35 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:14:35 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:14:35 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:14:36 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-14-36.png
+2026-04-02 17:14:36 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:14:36 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:14:36 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:14:38 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:14:39 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:14:39 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:14:39 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:14:39 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-14-39.png
+2026-04-02 17:14:39 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:14:39 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:19:23 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:19:23 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:19:26 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:19:26 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:19:26 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:19:30 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:19:30 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-19-30.png
+2026-04-02 17:19:30 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:19:30 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:19:30 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:19:33 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:19:33 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:19:33 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:19:37 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:19:37 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:19:37 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:19:39 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:19:40 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:19:40 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:19:44 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:19:44 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:19:44 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:19:46 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:19:46 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:19:46 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:19:50 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:19:50 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:25:14 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:25:14 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:25:17 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:25:18 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:25:18 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:25:21 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:25:22 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-25-22.png
+2026-04-02 17:25:22 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:25:22 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:25:22 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:25:24 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:25:24 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:25:24 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:25:28 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:25:28 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:25:28 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:25:31 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:25:31 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:25:31 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:25:35 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:25:35 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:25:35 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:25:38 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:25:38 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:25:38 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:25:42 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:25:42 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:27:00 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:27:00 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:27:03 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:27:04 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:27:04 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:27:08 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:27:08 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-27-08.png
+2026-04-02 17:27:08 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:27:08 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:27:08 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:27:11 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:27:11 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:27:11 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:27:15 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:27:15 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:27:15 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:27:18 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:27:18 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:27:18 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:27:23 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:27:23 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:27:23 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:27:25 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:27:25 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:27:25 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:27:30 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:27:30 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:33:59 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:33:59 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:34:02 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:34:02 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:34:02 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:34:02 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:34:02 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-34-02.png
+2026-04-02 17:34:02 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:34:02 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:34:02 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:34:05 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:34:05 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:34:05 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:34:05 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:34:05 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-34-05.png
+2026-04-02 17:34:06 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:34:06 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:34:06 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:34:08 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:34:08 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:34:08 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:34:08 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:34:08 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-34-08.png
+2026-04-02 17:34:09 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:34:09 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:34:09 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:34:11 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:34:11 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:34:11 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:34:11 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:34:11 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-34-11.png
+2026-04-02 17:34:11 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:34:11 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:36:52 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:36:53 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:36:56 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:36:56 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:36:56 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:37:00 ERROR BaseTest:32 - Test failed: executeLoginTest
+2026-04-02 17:37:00 INFO  BaseTest:47 - Screenshot saved: test-output/screenshots/executeLoginTest_2026-04-02_17-37-00.png
+2026-04-02 17:37:01 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:37:01 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:37:01 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:37:03 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:37:03 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:37:03 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:37:07 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:37:07 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:37:07 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:37:09 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:37:10 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:37:10 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:37:14 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:37:14 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:37:14 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:37:18 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:37:18 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:37:18 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:37:22 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:37:22 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:50:07 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:50:07 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:50:10 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:50:10 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:50:10 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:50:18 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:50:18 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:50:18 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:50:20 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:50:20 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:50:20 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:50:24 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:50:24 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:50:24 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:50:26 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:50:26 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:50:26 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:50:31 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:50:31 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:50:31 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:50:33 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:50:33 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:50:33 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:50:37 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:50:37 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:51:45 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:51:45 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:51:48 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:51:48 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:51:48 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:51:55 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:51:55 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:51:55 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:51:57 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:51:57 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:51:57 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:52:01 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:52:01 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:52:01 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:52:03 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:52:03 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:52:03 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:52:07 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:52:07 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 17:52:07 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 17:52:10 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 17:52:10 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 17:52:10 INFO  BaseTest:26 - Test setup completed
+2026-04-02 17:52:14 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 17:52:14 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:00:23 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:00:23 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:00:28 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:00:28 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:00:28 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:00:36 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:00:36 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:00:36 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:00:38 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:00:38 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:00:38 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:00:43 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:00:43 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:00:43 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:00:45 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:00:45 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:00:45 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:00:49 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:00:49 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:00:49 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:00:51 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:00:52 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:00:52 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:00:56 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:00:56 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:36:32 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:36:32 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:36:34 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:36:34 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:36:34 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:36:41 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:36:41 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:36:41 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:36:43 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:36:43 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:36:43 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:36:47 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:36:47 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:36:47 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:36:49 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:36:50 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:36:50 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:36:53 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:36:53 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:36:53 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:36:55 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:36:56 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:36:56 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:36:59 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:36:59 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:45:10 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:45:10 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:45:12 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:45:12 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:45:12 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:45:19 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:45:19 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:45:19 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:45:20 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:45:20 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:45:20 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:45:24 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:45:24 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:45:24 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:45:25 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:45:25 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:45:25 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:45:29 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:45:29 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:45:29 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:45:31 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:45:31 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:45:31 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:45:35 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:45:35 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:51:09 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:51:09 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:51:11 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:51:12 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:51:12 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:51:19 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:51:19 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:51:19 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:51:20 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:51:21 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:51:21 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:51:24 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:51:24 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:51:24 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:51:27 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:51:27 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:51:27 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:51:31 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:51:31 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 18:51:31 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 18:51:33 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 18:51:33 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 18:51:33 INFO  BaseTest:26 - Test setup completed
+2026-04-02 18:51:37 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 18:51:37 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 19:04:42 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:04:42 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:04:47 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:04:47 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:04:47 INFO  BaseTest:26 - Test setup completed
+2026-04-02 19:04:54 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:04:54 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 19:04:54 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:04:56 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:04:56 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:04:56 INFO  BaseTest:26 - Test setup completed
+2026-04-02 19:05:00 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:05:00 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 19:05:00 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:05:02 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:05:02 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:05:02 INFO  BaseTest:26 - Test setup completed
+2026-04-02 19:05:05 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:05:05 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 19:05:05 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:05:07 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:05:08 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:05:08 INFO  BaseTest:26 - Test setup completed
+2026-04-02 19:05:11 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:05:11 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 19:07:51 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:07:51 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:07:53 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:07:53 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:07:53 INFO  BaseTest:26 - Test setup completed
+2026-04-02 19:08:00 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:08:00 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 19:08:00 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:08:02 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:08:02 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:08:02 INFO  BaseTest:26 - Test setup completed
+2026-04-02 19:08:06 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:08:06 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 19:08:06 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:08:07 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:08:08 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:08:08 INFO  BaseTest:26 - Test setup completed
+2026-04-02 19:08:11 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:08:11 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 19:08:11 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:08:12 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:08:12 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:08:12 INFO  BaseTest:26 - Test setup completed
+2026-04-02 19:08:16 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:08:16 INFO  BaseTest:36 - Test teardown completed
+2026-04-02 19:16:13 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:16:13 INFO  BaseTest:35 - Allure results folder created: allure-results
+2026-04-02 19:16:13 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:16:15 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:16:15 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:16:15 INFO  BaseTest:46 - Test setup completed
+2026-04-02 19:16:22 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:16:22 INFO  BaseTest:56 - Test teardown completed
+2026-04-02 19:16:22 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:16:23 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:16:23 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:16:23 INFO  BaseTest:46 - Test setup completed
+2026-04-02 19:16:27 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:16:27 INFO  BaseTest:56 - Test teardown completed
+2026-04-02 19:16:27 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:16:28 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:16:28 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:16:28 INFO  BaseTest:46 - Test setup completed
+2026-04-02 19:16:32 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:16:32 INFO  BaseTest:56 - Test teardown completed
+2026-04-02 19:16:32 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:16:33 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:16:34 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:16:34 INFO  BaseTest:46 - Test setup completed
+2026-04-02 19:16:38 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:16:38 INFO  BaseTest:56 - Test teardown completed
+2026-04-02 19:21:34 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:21:34 INFO  BaseTest:33 - Allure results cleaned successfully!
+2026-04-02 19:21:34 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:21:36 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:21:36 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:21:36 INFO  BaseTest:61 - Test setup completed
+2026-04-02 19:21:43 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:21:43 INFO  BaseTest:71 - Test teardown completed
+2026-04-02 19:21:43 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:21:45 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:21:45 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:21:45 INFO  BaseTest:61 - Test setup completed
+2026-04-02 19:21:49 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:21:49 INFO  BaseTest:71 - Test teardown completed
+2026-04-02 19:21:49 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:21:52 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:21:52 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:21:52 INFO  BaseTest:61 - Test setup completed
+2026-04-02 19:21:56 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:21:56 INFO  BaseTest:71 - Test teardown completed
+2026-04-02 19:21:56 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:21:58 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:21:58 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:21:58 INFO  BaseTest:61 - Test setup completed
+2026-04-02 19:22:02 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:22:02 INFO  BaseTest:71 - Test teardown completed
+2026-04-02 19:37:24 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:37:24 INFO  BaseTest:33 - Allure results cleaned successfully!
+2026-04-02 19:37:24 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:37:28 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:37:28 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:37:28 INFO  BaseTest:61 - Test setup completed
+2026-04-02 19:37:35 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:37:35 INFO  BaseTest:71 - Test teardown completed
+2026-04-02 19:37:35 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:37:38 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:37:38 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:37:38 INFO  BaseTest:61 - Test setup completed
+2026-04-02 19:37:43 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:37:43 INFO  BaseTest:71 - Test teardown completed
+2026-04-02 19:37:43 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:37:46 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:37:46 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:37:46 INFO  BaseTest:61 - Test setup completed
+2026-04-02 19:37:50 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:37:50 INFO  BaseTest:71 - Test teardown completed
+2026-04-02 19:37:50 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 19:37:53 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 19:37:53 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 19:37:53 INFO  BaseTest:61 - Test setup completed
+2026-04-02 19:37:58 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 19:37:58 INFO  BaseTest:71 - Test teardown completed
+2026-04-02 21:05:59 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:06:00 INFO  BaseTest:34 - Allure results cleaned successfully!
+2026-04-02 21:06:00 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:06:06 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:06:06 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:06:06 INFO  BaseTest:63 - Test setup completed
+2026-04-02 21:06:14 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:06:14 INFO  BaseTest:73 - Test teardown completed
+2026-04-02 21:06:14 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:06:16 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:06:17 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:06:17 INFO  BaseTest:63 - Test setup completed
+2026-04-02 21:06:21 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:06:21 INFO  BaseTest:73 - Test teardown completed
+2026-04-02 21:06:21 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:06:23 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:06:23 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:06:23 INFO  BaseTest:63 - Test setup completed
+2026-04-02 21:06:27 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:06:27 INFO  BaseTest:73 - Test teardown completed
+2026-04-02 21:06:27 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:06:29 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:06:29 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:06:29 INFO  BaseTest:63 - Test setup completed
+2026-04-02 21:06:33 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:06:33 INFO  BaseTest:73 - Test teardown completed
+2026-04-02 21:18:42 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:18:42 INFO  BaseTest:27 - Allure results cleaned successfully!
+2026-04-02 21:18:42 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:18:46 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:18:46 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:18:46 INFO  BaseTest:46 - Browser initialized
+2026-04-02 21:18:54 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:18:54 INFO  BaseTest:55 - Browser closed
+2026-04-02 21:18:54 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:18:57 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:18:57 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:18:57 INFO  BaseTest:46 - Browser initialized
+2026-04-02 21:19:02 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:19:02 INFO  BaseTest:55 - Browser closed
+2026-04-02 21:19:02 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:19:05 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:19:05 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:19:05 INFO  BaseTest:46 - Browser initialized
+2026-04-02 21:19:10 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:19:10 INFO  BaseTest:55 - Browser closed
+2026-04-02 21:19:10 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:19:12 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:19:12 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:19:12 INFO  BaseTest:46 - Browser initialized
+2026-04-02 21:19:17 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:19:17 INFO  BaseTest:55 - Browser closed
+2026-04-02 21:22:19 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:22:19 INFO  BaseTest:31 - Existing Allure results cleared.
+2026-04-02 21:22:19 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:22:22 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:22:22 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:22:22 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-02 21:22:30 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:22:30 INFO  BaseTest:67 - WebDriver session closed.
+2026-04-02 21:22:30 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:22:33 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:22:33 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:22:33 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-02 21:22:37 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:22:37 INFO  BaseTest:67 - WebDriver session closed.
+2026-04-02 21:22:37 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:22:40 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:22:40 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:22:40 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-02 21:22:45 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:22:45 INFO  BaseTest:67 - WebDriver session closed.
+2026-04-02 21:22:45 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-02 21:22:48 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-02 21:22:48 INFO  DriverFactory:32 - Browser window maximized
+2026-04-02 21:22:48 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-02 21:22:53 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-02 21:22:53 INFO  BaseTest:67 - WebDriver session closed.
+2026-04-03 11:32:44 INFO  BaseTest:31 - Existing Allure results cleared.
+2026-04-03 11:32:44 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:32:51 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:32:51 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:32:51 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:33:02 ERROR BaseTest:64 - Test failed: attaching screenshot to report.
+2026-04-03 11:33:02 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:33:02 INFO  BaseTest:67 - WebDriver session closed.
+2026-04-03 11:33:02 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:33:03 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:33:03 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:33:03 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:33:14 ERROR BaseTest:64 - Test failed: attaching screenshot to report.
+2026-04-03 11:33:14 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:33:14 INFO  BaseTest:67 - WebDriver session closed.
+2026-04-03 11:33:14 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:33:15 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:33:15 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:33:15 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:33:25 ERROR BaseTest:64 - Test failed: attaching screenshot to report.
+2026-04-03 11:33:26 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:33:26 INFO  BaseTest:67 - WebDriver session closed.
+2026-04-03 11:33:26 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:33:27 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:33:27 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:33:27 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:33:37 ERROR BaseTest:64 - Test failed: attaching screenshot to report.
+2026-04-03 11:33:38 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:33:38 INFO  BaseTest:67 - WebDriver session closed.
+2026-04-03 11:43:25 INFO  BaseTest:31 - Existing Allure results cleared.
+2026-04-03 11:43:25 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:43:27 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:43:27 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:43:27 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:43:27 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:43:29 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:43:34 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:43:34 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:43:34 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:43:35 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:43:36 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:43:36 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:43:36 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:43:36 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:43:39 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:43:39 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:43:39 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:43:41 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:43:41 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:43:41 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:43:41 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:43:41 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:43:54 ERROR BaseTest:69 - Test failed: attaching screenshot to report.
+2026-04-03 11:43:55 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:43:55 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:43:55 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:43:56 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:43:56 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:43:56 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:43:56 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:43:57 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:44:10 ERROR BaseTest:69 - Test failed: attaching screenshot to report.
+2026-04-03 11:44:10 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:44:10 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:49:26 INFO  BaseTest:31 - Existing Allure results cleared.
+2026-04-03 11:49:26 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:49:28 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:49:28 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:49:28 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:49:28 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:49:30 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:49:32 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:49:32 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:49:38 INFO  BaseTest:31 - Existing Allure results cleared.
+2026-04-03 11:49:38 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:49:39 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:49:39 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:49:39 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:49:39 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:49:39 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:49:43 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:49:43 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:49:49 INFO  BaseTest:31 - Existing Allure results cleared.
+2026-04-03 11:49:49 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:49:51 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:49:51 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:49:51 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:49:51 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:49:52 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:49:58 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:49:58 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:49:58 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:49:59 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:50:00 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:50:00 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:50:00 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:50:00 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:50:03 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:50:03 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:50:03 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:50:05 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:50:05 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:50:05 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:50:05 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:50:05 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:50:08 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:50:08 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:50:08 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:50:09 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:50:09 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:50:09 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:50:09 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:50:10 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:50:13 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:50:13 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:55:24 INFO  BaseTest:31 - Existing Allure results cleared.
+2026-04-03 11:55:24 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:55:26 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:55:26 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:55:26 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:55:26 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:55:28 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:55:33 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:55:33 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:55:33 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:55:34 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:55:34 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:55:34 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:55:34 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:55:35 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:55:38 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:55:38 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:55:38 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:55:39 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:55:39 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:55:39 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:55:39 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:55:39 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:55:43 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:55:43 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 11:55:43 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:55:44 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 11:55:44 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 11:55:44 INFO  BaseTest:53 - WebDriver initialized successfully.
+2026-04-03 11:55:44 INFO  ConfigReader:20 - Configuration loaded successfully
+2026-04-03 11:55:45 INFO  BaseTest:61 - Navigated to: D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 11:55:48 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 11:55:48 INFO  BaseTest:72 - WebDriver session closed.
+2026-04-03 12:03:01 INFO  BaseTest:35 - Existing Allure results cleared.
+2026-04-03 12:03:01 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:03:03 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:03:03 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:03:03 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:03:03 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:03:04 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:03:10 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:03:10 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:03:10 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:03:11 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:03:11 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:03:11 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:03:11 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:03:12 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:03:15 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:03:15 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:03:15 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:03:16 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:03:16 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:03:16 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:03:16 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:03:17 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:03:20 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:03:20 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:03:20 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:03:21 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:03:21 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:03:21 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:03:21 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:03:22 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:03:25 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:03:25 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:04:22 INFO  BaseTest:35 - Existing Allure results cleared.
+2026-04-03 12:04:22 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:04:24 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:04:24 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:04:24 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:04:24 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:04:25 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:04:31 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:04:31 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:04:31 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:04:32 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:04:32 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:04:32 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:04:32 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:04:33 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:04:36 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:04:36 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:04:36 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:04:37 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:04:37 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:04:37 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:04:37 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:04:37 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:04:41 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:04:41 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:04:41 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:04:42 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:04:42 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:04:42 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:04:42 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:04:43 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:04:45 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:04:45 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:05:08 INFO  BaseTest:35 - Existing Allure results cleared.
+2026-04-03 12:05:08 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:05:10 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:05:10 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:05:10 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:05:10 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:05:11 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:05:17 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:05:17 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:05:17 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:05:18 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:05:18 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:05:18 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:05:18 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:05:19 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:05:22 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:05:22 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:05:22 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:05:23 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:05:23 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:05:23 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:05:23 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:05:23 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:05:26 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:05:26 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:05:26 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:05:28 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:05:28 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:05:28 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:05:28 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:05:29 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:05:31 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:05:31 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:48:25 INFO  BaseTest:35 - Existing Allure results cleared.
+2026-04-03 12:48:25 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:48:30 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:48:30 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:48:30 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:48:30 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:48:40 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:48:44 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:48:44 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:48:44 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:48:47 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:48:47 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:48:47 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:48:47 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:48:48 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:48:51 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:48:51 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:48:51 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:48:53 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:48:53 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:48:53 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:48:53 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:48:53 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:48:58 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:48:58 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-03 12:48:58 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:49:00 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-03 12:49:00 INFO  DriverFactory:32 - Browser window maximized
+2026-04-03 12:49:00 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-03 12:49:00 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-03 12:49:00 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-03 12:49:04 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-03 12:49:04 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-04 10:22:29 INFO  BaseTest:35 - Existing Allure results cleared.
+2026-04-04 10:22:29 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:22:36 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-04 10:22:36 INFO  DriverFactory:32 - Browser window maximized
+2026-04-04 10:22:36 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-04 10:22:36 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:22:38 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-04 10:22:43 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-04 10:22:43 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-04 10:23:25 INFO  BaseTest:35 - Existing Allure results cleared.
+2026-04-04 10:23:25 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:23:27 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-04 10:23:27 INFO  DriverFactory:32 - Browser window maximized
+2026-04-04 10:23:27 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-04 10:23:27 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:23:28 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-04 10:23:35 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-04 10:23:35 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-04 10:23:35 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:23:37 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-04 10:23:37 INFO  DriverFactory:32 - Browser window maximized
+2026-04-04 10:23:37 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-04 10:23:37 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:23:38 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-04 10:23:40 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-04 10:23:40 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-04 10:23:40 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:23:42 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-04 10:23:42 INFO  DriverFactory:32 - Browser window maximized
+2026-04-04 10:23:42 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-04 10:23:42 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:23:43 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-04 10:23:46 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-04 10:23:46 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-04 10:23:46 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:23:48 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-04 10:23:48 INFO  DriverFactory:32 - Browser window maximized
+2026-04-04 10:23:48 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-04 10:23:48 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:23:49 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-04 10:23:52 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-04 10:23:52 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-04 10:31:07 INFO  BaseTest:35 - Existing Allure results cleared.
+2026-04-04 10:31:07 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:31:10 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-04 10:31:10 INFO  DriverFactory:32 - Browser window maximized
+2026-04-04 10:31:10 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-04 10:31:10 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:31:12 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-04 10:31:17 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-04 10:31:17 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-04 10:31:17 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:31:19 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-04 10:31:19 INFO  DriverFactory:32 - Browser window maximized
+2026-04-04 10:31:19 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-04 10:31:19 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:31:20 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-04 10:31:23 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-04 10:31:23 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-04 10:31:23 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:31:25 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-04 10:31:25 INFO  DriverFactory:32 - Browser window maximized
+2026-04-04 10:31:25 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-04 10:31:25 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:31:26 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-04 10:31:29 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-04 10:31:29 INFO  BaseTest:95 - WebDriver session closed.
+2026-04-04 10:31:29 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:31:31 INFO  DriverFactory:25 - Chrome browser initialized successfully
+2026-04-04 10:31:31 INFO  DriverFactory:32 - Browser window maximized
+2026-04-04 10:31:31 INFO  BaseTest:64 - WebDriver initialized successfully.
+2026-04-04 10:31:31 INFO  ConfigReader:30 - Configuration properties loaded successfully from: src/test/resources/config.properties
+2026-04-04 10:31:32 INFO  BaseTest:81 - Navigated to generic path: file:///D:/QA Automation Interview Task/src/test/resources/login.html
+2026-04-04 10:31:35 INFO  DriverFactory:64 - Browser quit successfully
+2026-04-04 10:31:35 INFO  BaseTest:95 - WebDriver session closed.

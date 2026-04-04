@@ -1,0 +1,31 @@
+{
+  "TC-001": {
+    "description": "Verify successful login with valid credentials",
+    "username": "qoyod_user",
+    "password": "Test@1234",
+    "expectedResult": "success",
+    "expectedMessage": "You're logged in successfully!"
+  },
+  "TC-002": {
+    "description": "Verify login failure with an invalid username",
+    "username": "qoyod_user4444",
+    "password": "Test@1234",
+    "expectedResult": "error",
+    "expectedMessage": "Invalid username or password. Please try again."
+  },
+  "TC-003": {
+    "description": "Verify login failure with an incorrect password",
+    "username": "qoyod_user",
+    "password": "Test@12343333",
+    "expectedResult": "error",
+    "expectedMessage": "Invalid username or password. Please try again."
+  },
+  "TC-004": {
+    "description": "Verify field-level error messages for empty submissions",
+    "username": "",
+    "password": "",
+    "expectedResult": "empty_fields",
+    "userError": "Username is required.",
+    "passError": "Password is required."
+  }
+}
