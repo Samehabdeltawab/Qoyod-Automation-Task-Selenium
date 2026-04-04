@@ -21,14 +21,14 @@ public class LoginTest extends BaseTest {
 
     /**
      * Reads test data from JSON file
-     */
+    */
     private JSONObject getTestData(String tcId) throws Exception {
         JSONParser parser = new JSONParser();
         JSONObject jsonObject = (JSONObject) parser.parse(
                 new FileReader("src/test/resources/testCases.json"));
         return (JSONObject) jsonObject.get(tcId);
     }
-
+    
     /**
      * Reusable login steps
      */
@@ -46,7 +46,7 @@ public class LoginTest extends BaseTest {
 
     // ========================= TESTS ========================= //
 
-    @Test(priority = 1, description = "Valid login")
+    @Test(description = "Valid login")
     @Story("Valid Login")
     @Severity(SeverityLevel.BLOCKER)
     public void testSuccessfulLogin() throws Exception {
@@ -56,7 +56,7 @@ public class LoginTest extends BaseTest {
                 loginPage.getSuccessMessage().contains((String) data.get("expectedMessage")));
     }
 
-    @Test(priority = 2, description = "Invalid username")
+    @Test(description = "Invalid username")
     @Story("Invalid Login - Username")
     @Severity(SeverityLevel.CRITICAL)
     public void testInvalidUsername() throws Exception {
@@ -67,7 +67,7 @@ public class LoginTest extends BaseTest {
                 (String) data.get("expectedMessage"));
     }
 
-    @Test(priority = 3, description = "Incorrect password")
+    @Test(description = "Incorrect password")
     @Story("Invalid Login - Password")
     @Severity(SeverityLevel.CRITICAL)
     public void testIncorrectPassword() throws Exception {
@@ -78,7 +78,7 @@ public class LoginTest extends BaseTest {
                 (String) data.get("expectedMessage"));
     }
 
-    @Test(priority = 4, description = "Empty fields validation")
+    @Test(description = "Empty fields validation")
     @Story("Validation Errors")
     @Severity(SeverityLevel.NORMAL)
     public void testEmptyFields() throws Exception {
